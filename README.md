@@ -27,8 +27,8 @@ The API was developed with Spring Boot, version 3.0.1 and for this reason it dep
 
 To run the application in development evironment, you just need to follow this steps:
 
-1) Clone the repository inside your workspace.
-2) Import the project in your IDE
+1) Unzip or clone the project from [GitHub](https://github.com/emanuelcruzrodrigues/RolesAPI) in your workspace folder 
+2) Import the maven project in your favorite IDE
 3) Run the main class: br.com.emanuel.rolesapi.RolesapiApplication
 
 The application will be available at: http://localhost:8080
@@ -41,7 +41,7 @@ This is the structure from a Role:
 - id: Numeric identifier from Role. Is automatically assigned by the API.
 - name: Name of the role. Mandatory to be filled.
 
-The RESTful service "/roles" was implemented based on the level 2 the Richadson maturity model, having the following methods:
+The RESTful service "/roles" is implemented based on the level 2 the Richadson maturity model, having the following methods:
 
 | HTTP Verb| Address | Description |
 | --------- | -------- | --------- |
