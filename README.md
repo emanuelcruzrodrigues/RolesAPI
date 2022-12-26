@@ -61,5 +61,8 @@ The rest service "/membership" have the following methods:
 | GET | /membership | Look up a role for a membership. A membership is defined by a user id and a team id. The json parameters are: userId, teamId. Return null if no membership is found.|
 | GET | /membership/{roleName} | Look up memberships for a role.|
 
+### Examples
+
+Postman project containing usage examples: [postman_collection.zip](https://github.com/emanuelcruzrodrigues/RolesAPI/files/10304999/postman_collection.zip)
 
 
