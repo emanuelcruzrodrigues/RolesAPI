@@ -51,7 +51,7 @@ public class SearchRole {
 
 		RoleMember membership = roleRepository.findRoleMembership(user, team, null);
 		if (membership == null) {
-			throw new MembershipNotFoundException(roleMembership.getUserId(), roleMembership.getTeamId());
+			return null;
 		}
 		
 		return membership.getRole();

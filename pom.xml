@@ -8,8 +8,8 @@
 		<version>3.0.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.emanuel</groupId>
-	<artifactId>RolesAPI</artifactId>
+	<groupId>emanuelrodrigues</groupId>
+	<artifactId>ecore-roles-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>rolesapi</name>
 	<description>Roles Rest API</description>
