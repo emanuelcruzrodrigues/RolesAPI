@@ -15,13 +15,11 @@ I have created a docker image of the API implementation. To run it, just run the
 docker run -it --rm --name=ecore-roles-api -p 8080:8080 emanuelrodrigues/ecore-roles-api 
 ```
 ![image](https://user-images.githubusercontent.com/1282312/209581938-ea0b6819-2220-4fc9-b62f-22d0706c87a0.png)
+![image](https://user-images.githubusercontent.com/1282312/209581953-f69832ad-7693-40b6-a580-09dca1cd2a83.png)
 
 For information, please visit the [Docker image page at Docker hub](https://hub.docker.com/repository/docker/emanuelrodrigues/ecore-roles-api)
 
 After started, the application will be available at: http://localhost:8080
-
-![image](https://user-images.githubusercontent.com/1282312/209581953-f69832ad-7693-40b6-a580-09dca1cd2a83.png)
-
 
 ### Development
 
