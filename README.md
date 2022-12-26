@@ -16,7 +16,7 @@ docker run -it --rm --name=ecore-roles-api -p 8080:8080 emanuelrodrigues/ecore-r
 ```
 ![image](https://user-images.githubusercontent.com/1282312/209581938-ea0b6819-2220-4fc9-b62f-22d0706c87a0.png)
 
-[Docker image page in Docker hub](https://hub.docker.com/repository/docker/emanuelrodrigues/ecore-roles-api)
+For information, please visit the [Docker image page at Docker hub](https://hub.docker.com/repository/docker/emanuelrodrigues/ecore-roles-api)
 
 After started, the application will be available at: http://localhost:8080
 
