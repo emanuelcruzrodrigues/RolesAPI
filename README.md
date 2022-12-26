@@ -23,7 +23,7 @@ After started, the application will be available at: http://localhost:8080
 
 ### Development
 
-The API was developed wit Spring Boot, version 3.0.1 and for this reason it depends on the java version 17. All other dependencies are managed by maven.
+The API was developed with Spring Boot, version 3.0.1 and for this reason it depends on the java version 17. All other dependencies are managed by maven.
 
 To run the application in development evironment, you just need to follow this steps:
 
