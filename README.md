@@ -63,6 +63,6 @@ The rest service "/membership" have the following methods:
 
 ### Examples
 
-Postman project containing usage examples: [postman_collection.zip](https://github.com/emanuelcruzrodrigues/RolesAPI/files/10304999/postman_collection.zip)
-
+- Postman collection containing usage examples: [postman_collection.zip](https://github.com/emanuelcruzrodrigues/RolesAPI/files/10304999/postman_collection.zip)
+- [Postman online workspace](https://www.postman.com/lunar-module-cosmologist-55605270/workspace/e-core-challenge-rolesapi/)
 
